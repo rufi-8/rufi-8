@@ -1,4 +1,5 @@
 # Who am I?
+Im Rufina, I'm 16 years old and I love cats.
 ## secundaire school
 - applicatie en databeheer
 - derde graad
