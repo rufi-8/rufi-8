@@ -6,4 +6,4 @@
 - gitaar
 - tekenen
 ## muziek
-- [beabadoobee] (https://en.wikipedia.org/wiki/Beabadoobee) 
+- [beabadoobee](https://en.wikipedia.org/wiki/Beabadoobee) 
